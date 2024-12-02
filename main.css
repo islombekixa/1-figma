@@ -1,0 +1,46 @@
+.card{
+    width: 300px;
+    display: block;
+    background-color: black;
+    height: 300px;
+    transition: 1s;
+}
+input:checked + label{
+    background-color: aqua;
+}
+input{
+.card{
+    width: 300px;
+    display: block;
+    background-color: black;
+    height: 300px;
+    transition: 1s;
+}
+input:checked + label{
+    background-color: aqua;
+}
+input{
+.card{
+    width: 300px;
+    display: block;
+    background-color: black;
+    height: 300px;
+    transition: 1s;
+}
+input:checked + label{
+    background-color: aqua;
+}
+input{
+.card{
+    width: 300px;
+    display: block;
+    background-color: black;
+    height: 300px;
+    transition: 1s;
+}
+input:checked + label{
+    background-color: aqua;
+}
+input{
+    display: none;
+}
